@@ -1,0 +1,15 @@
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\bin\Debug\net6.0\pengenalan class dan object.exe
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\bin\Debug\net6.0\pengenalan class dan object.deps.json
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\bin\Debug\net6.0\pengenalan class dan object.runtimeconfig.json
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\bin\Debug\net6.0\pengenalan class dan object.dll
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\bin\Debug\net6.0\pengenalan class dan object.pdb
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.csproj.AssemblyReference.cache
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.AssemblyInfoInputs.cache
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.AssemblyInfo.cs
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.csproj.CoreCompileInputs.cache
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.dll
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\refint\pengenalan class dan object.dll
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.pdb
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\pengenalan class dan object.genruntimeconfig.cache
+D:\MATERI\S2\PEMOGRAMAN\PERTEMUAN\3\pengenalan class dan object\pengenalan class dan object\obj\Debug\net6.0\ref\pengenalan class dan object.dll
